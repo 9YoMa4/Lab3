@@ -34,15 +34,15 @@ namespace Program
             #endregion
 
             #region 3 exercise
-            /*First first = new First("Alex", 15);
+            /*First first = new First("Bob", 17);
             first.Print();
             Console.WriteLine();
 
-            Second second = new Second("Max", "Kyiv");
+            Second second = new Second("Den", "Shostka");
             second.Print();
             Console.WriteLine();
 
-            Third third = new Third("Roman", "Kopienko");
+            Third third = new Third("Viktor", "Myhailenko");
             third.Print();
             Console.WriteLine();*/
             #endregion
